@@ -1,0 +1,62 @@
+/* body stuff */
+
+h1 {
+  
+}
+
+p {
+}
+
+/* content in top container */
+
+.name {
+  color: #ff7800;
+  font-family: "Sacramento";
+  font-size: 5.625rem;
+}
+
+/* container stuff */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+.top-container {
+  background-color: #f7f7f7;
+  min-height: 100vh;
+  padding-top: 50px;
+}
+
+.middle-container {
+  background-color: #fffdde;
+  height: 300px;
+}
+
+.bottom-container {
+  background-color: #e7fbbe;
+  height: 300px;
+}
+
+/* anchor tags */
+
+a {
+  text-decoration: none;
+}
+
+.about-link {
+  padding: 10px 20px;
+  color: #ffbc97;
+}
+
+.project-link {
+  padding: 10px 20px;
+  color: #ffbc97;
+}
+
+.hobby-link {
+  padding: 10px 20px;
+  color: #ffbc97;
+}
+
+/* media screen */
